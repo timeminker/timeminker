@@ -1,4 +1,7 @@
-![I'm A Software Engineer](https://i.ibb.co/CJPckdX/result.gif)
+<!-- ![I'm A Software Engineer](https://i.ibb.co/CJPckdX/result.gif) -->
+<p align="center">
+  <img src="https://i.ibb.co/CJPckdX/result.gif">
+</p>
 
 I have a keen interest in design, accessibility, and inclusivity, and a focus on JavaScript, Python, Django, and PostgreSQL. With years of experience in customer service and team collaboration, I have a commitment to looking at the components and communicating them to make the best product. What can we make together?
 
