@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/CJPckdX/result.gif" alt="result" border="0">
-
+![I'm A Software Engineer](https://i.ibb.co/CJPckdX/result.gif)
 <!--
 **timeminker/timeminker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
